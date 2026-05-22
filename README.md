@@ -1,4 +1,4 @@
-# CPET - Portal de Acompanhamento Acadêmico - Acesso [clique aqui](jjj)
+# CPET - Portal de Acompanhamento Acadêmico - Acesso [clique aqui](https://jadilson-tech.github.io/site_do_marcos/ )
 
 Projeto acadêmico desenvolvido em HTML com foco em estrutura semântica, organização de conteúdo e conceitos básicos de desenvolvimento web.
 
